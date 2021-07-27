@@ -1,0 +1,4 @@
+pepito = python
+carlitos = HTML xD
+pedrito = JS
+pablito = Java :0
